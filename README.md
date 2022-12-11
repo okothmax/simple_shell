@@ -1,1 +1,1 @@
-simple shell tteam project
+simple shell team project
