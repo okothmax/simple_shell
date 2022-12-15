@@ -14,6 +14,7 @@ char *get_location(char *command)
 	char **path, *temp;
 	list_t *dirs, *he struct stat st;
 	path = _getenv("PATH");
+	
 	if (!path || !(*path))
 		return (NULL);
 	dirs = get_path_dir(*path + 5);
