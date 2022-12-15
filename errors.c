@@ -59,8 +59,7 @@ char *_itoa(int num)
 	}
 
 	len--;
-	do
-	{
+	do{
 		buffer[len] = (num1 % 10) + '0';
 		num1 /= 10;
 		len--;
