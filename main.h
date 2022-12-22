@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #ifndef _MAIN_H_
 #define _MAIN_H_
 
@@ -234,4 +231,3 @@ void aux_help_cd(void);
 int get_help(data_shell *datash);
 
 #endif
->>>>>>> 2c15ac7f560d17f0f18999497b4a2b17c843a0e4
